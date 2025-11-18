@@ -1,9 +1,6 @@
 # C++ Algorithm Implementations from Scratch
 
-**Author:** Maksim Silchenko  
-**Date:** 2025
-
-Three production-quality implementations of fundamental machine learning and optimization algorithms, built from first principles in C++17 with comprehensive mathematical documentation.
+Three production-quality implementations of fundamental machine learning and optimization algorithms, built from first principles in C++ with comprehensive mathematical documentation.
 
 ---
 
